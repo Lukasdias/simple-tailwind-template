@@ -1,2 +1,21 @@
-# simple-tailwind-template
- 
+# How to use
+- Clone this repo
+- $ cd simple-tailwind-template
+- $ npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+- Live Serve the index.html or something else
+- Enjoy
+- For more changes, such as tailwind output css location, see Tailwind website.
+## Repo Structure
+- src
+  - js
+    - empty 
+  - assets
+    - empty 
+  - styles
+    - empty 
+  - index.html
+  - input.css
+  - output.css
+- ./
+  - .gitignore
+  - tailwind.config.js
